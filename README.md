@@ -3,8 +3,8 @@
 #### Technical Skills: Python, SQL (Oracle PL/SQL), Tableau, RPA (UiPath/Laiye), Informatica (ETL)
 
 ## Education
-- BSc in Business Analytics | Singapore University of Social Sciences (_December 2022_)					       		
-- Diploma in Multimedia & ICT	| Nanyang Polytechnic (_December 2016_)
+* BSc in Business Analytics | Singapore University of Social Sciences (_December 2022_)					       		
+* Diploma in Multimedia & ICT	| Nanyang Polytechnic (_December 2016_)
 
 ## Work Experience
 **Consultant @ BioQuest Advisory (_May 2024 - April 2025_)**
