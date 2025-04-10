@@ -18,4 +18,5 @@
 - Bridged the gap between technical teams and business stakeholders by managing requirements, documentation, and project execution, ensuring on-time and within-scope delivery.
 
 # Projects
-Work in progress..
+### RPA
+[Invoice Automation with UiPath]([https://www.mdpi.com/1424-8220/22/8/3048](https://github.com/franciskoh/RPA-ACME-Work-Item-Processing))
