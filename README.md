@@ -19,4 +19,4 @@
 
 # Projects
 ### RPA
-[Invoice Automation with UiPath]([https://www.mdpi.com/1424-8220/22/8/3048](https://github.com/franciskoh/RPA-ACME-Work-Item-Processing))
+[Invoice Automation with UiPath](https://www.mdpi.com/1424-8220/22/8/3048](https://github.com/franciskoh/RPA-ACME-Work-Item-Processing))
