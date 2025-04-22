@@ -18,5 +18,8 @@
 - Bridged the gap between technical teams and business stakeholders by managing requirements, documentation, and project execution, ensuring on-time and within-scope delivery.
 
 # Projects
+### Python/ Data Analysis
+[Singapore Weather Data Analysis (2020–2024)](https://github.com/franciskoh/Singapore-Weather-Data-Analysis-2020-2024-)
+
 ### RPA
 [Invoice Automation with UiPath](https://github.com/franciskoh/RPA-ACME-Work-Item-Processing)
